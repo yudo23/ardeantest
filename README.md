@@ -16,5 +16,5 @@
 [DELETE] localhost:8000/api/v1/products/{id} - Untuk menghapus produk<br>
 
 <h2>Penjelasan Tambahan</h2>
-1. Project dibuat menggunakan service pattern untuk memisahkan logika antara controller dan model. Untuk file terdapat pada folder app/Services
+1. Project dibuat menggunakan service pattern untuk memisahkan logika antara controller dan model. Untuk file terdapat pada folder app/Services<br>
 2. Validasi file dibuat secara terpisah . Untuk file terdapat pada folder app/Http/Requests
