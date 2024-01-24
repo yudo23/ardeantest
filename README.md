@@ -9,8 +9,8 @@
 7. Jalankan php artisan serve
 
 <h2>Resource Endpoint API Product</h2>
-[GET] localhost:8000/api/v1/product <br>
-[GET] localhost:8000/api/v1/product/{id} <br>
-[POST] localhost:8000/api/v1/product <br>
-[PUT] localhost:8000/api/v1/product/{id} <br>
-[DELETE] localhost:8000/api/v1/product/{id} <br>
+[GET] localhost:8000/api/v1/products <br>
+[GET] localhost:8000/api/v1/products/{id} <br>
+[POST] localhost:8000/api/v1/products <br>
+[PUT] localhost:8000/api/v1/products/{id} <br>
+[DELETE] localhost:8000/api/v1/products/{id} <br>
