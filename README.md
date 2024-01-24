@@ -17,4 +17,5 @@
 
 <h2>Penjelasan Tambahan</h2>
 1. Project dibuat menggunakan service pattern untuk memisahkan logika antara controller dan model. Untuk file terdapat pada folder app/Services<br>
-2. Validasi file dibuat secara terpisah . Untuk file terdapat pada folder app/Http/Requests
+2. Validasi file dibuat secara terpisah . Untuk file terdapat pada folder app/Http/Requests<br>
+3. Untuk menampilkan data json menggunakan helper . Untuk file terdapat pada folder app/Helpers
