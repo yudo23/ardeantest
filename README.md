@@ -15,6 +15,7 @@
 [PUT] localhost:8000/api/v1/products/{id} - Untuk mendapatkan mengubah produk<br>
 [DELETE] localhost:8000/api/v1/products/{id} - Untuk menghapus produk<br>
 Colecction postman dapat diakses di https://www.postman.com/galactic-shuttle-49203/workspace/ardean-test/collection/12239810-1f92040f-4c2c-4003-a8c9-29ddce806556?action=share&creator=12239810<br>
+Screenshot hasil bisa diakses di https://drive.google.com/drive/folders/1exADbyBtRo1CisSvJpgscUBcMp0bpj5-?usp=sharing<br>
 
 <h2>Penjelasan Tambahan</h2>
 1. Project dibuat menggunakan service pattern untuk memisahkan logika antara controller dan model. Untuk file terdapat pada folder app/Services<br>
