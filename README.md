@@ -9,8 +9,8 @@
 7. Jalankan php artisan serve
 
 <h2>Resource Endpoint API Product</h2>
-[GET] localhost:8000/api/v1/products <br>
-[GET] localhost:8000/api/v1/products/{id} <br>
-[POST] localhost:8000/api/v1/products <br>
-[PUT] localhost:8000/api/v1/products/{id} <br>
-[DELETE] localhost:8000/api/v1/products/{id} <br>
+[GET] localhost:8000/api/v1/products - Untuk mendapatkan data semua produk<br>
+[GET] localhost:8000/api/v1/products/{id} - Untuk mendapatkan data satu produk<br>
+[POST] localhost:8000/api/v1/products - Untuk menambakan produk<br>
+[PUT] localhost:8000/api/v1/products/{id} - Untuk mendapatkan mengubah produk<br>
+[DELETE] localhost:8000/api/v1/products/{id} - Untuk menghapus produk<br>
