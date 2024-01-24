@@ -7,3 +7,10 @@
 5. Lakukan konfigurasi database pada .env dengan mengubah nama database menjadi ardeantest
 6. Konfigurasi selesai
 7. Jalankan php artisan serve
+
+<h2>Resource Endpoint API Product</h2>
+[GET] localhost:8000/api/v1/product <br>
+[GET] localhost:8000/api/v1/product/{id} <br>
+[POST] localhost:8000/api/v1/product <br>
+[PUT] localhost:8000/api/v1/product/{id} <br>
+[DELETE] localhost:8000/api/v1/product/{id} <br>
